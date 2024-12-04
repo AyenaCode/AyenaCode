@@ -1,5 +1,4 @@
 👋 Hi, I’m @AyenaCode
-
 👀 I’m passionate about TypeScript, Rust, and building modern web applications with React and SolidJS
 
 🌱 I’m currently exploring Rust and blockchain development to expand my skills
