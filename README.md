@@ -1,6 +1,6 @@
 👋 Hi, I’m @AyenaCode
 
-👀 I’m passionate about TypeScript and building modern applications with React-Next.js and ReactNative
+👀 I’m passionate about JS/TypeScript and building modern applications with React-Next.js and ReactNative
 
 🌱 I’m currently exploring Java and cloud couputing to expand my skills
 
