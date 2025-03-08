@@ -1,10 +1,10 @@
 👋 Hi, I’m @AyenaCode
 
-👀 I’m passionate about JS/TypeScript and building modern applications with React-Next.js and ReactNative
+👀 I’m passionate about building modern applications with React, ReactNative and NodeJS
 
-🌱 I’m currently exploring Java and cloud couputing to expand my skills
+🌱 I’m currently exploring cloud couputing to expand my skills
 
-💼 I’m open to collaborating on exciting projects involving React or JavaScript/TypeScript Vanilla,  
+💼 I’m open to collaborating on exciting projects involving React and NodeJS 
 
 💬 Feel free to reach out if you’d like to connect or collaborate!
 
