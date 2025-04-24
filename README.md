@@ -4,7 +4,7 @@
 
 🌱 I’m currently exploring cloud couputing to expand my skills
 
-💼 I’m open to collaborating on exciting projects involving React and NodeJS 
+💼 I’m open to collaborating on exciting projects involving React or Java
 
 💬 Feel free to reach out if you’d like to connect or collaborate!
 
