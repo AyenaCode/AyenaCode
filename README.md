@@ -1,6 +1,6 @@
 👋 Hi, I’m @AyenaCode
 
-👀 I’m passionate about building modern applications with React, ReactNative and NodeJS
+👀 I’m passionate about building modern applications with Java/Kotlin, React/ReactNative and NodeJS
 
 🌱 I’m currently exploring cloud couputing to expand my skills
 
