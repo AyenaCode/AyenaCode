@@ -1,10 +1,10 @@
 👋 Hi, I’m @AyenaCode
 
-👀 I’m passionate about building modern applications with Java/Kotlin, React/ReactNative and NodeJS
+👀 I’m passionate about building modern applications with ReactNative and Java/Koylin
 
-🌱 I’m currently exploring cloud couputing to expand my skills
+🌱 I’m currently exploring web(backend) developpemnet to expand my skills
 
-💼 I’m open to collaborating on exciting projects involving React or Java
+💼 I’m open to collaborating on exciting projects involving ReactNative or Java
 
 💬 Feel free to reach out if you’d like to connect or collaborate!
 
